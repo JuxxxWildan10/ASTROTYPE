@@ -1,0 +1,22 @@
+{
+  "name": "astrotype",
+  "version": "2.5.0",
+  "description": "AstroType: Pertahanan Galaksi & Akademi Mengetik 10 Jari - Space Typewriter Game & Progressive Web App Created by YRZQ_WLDN",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx -y serve .",
+    "dev": "npx -y serve ."
+  },
+  "keywords": [
+    "astrotype",
+    "touch-typing",
+    "typing-game",
+    "space-game",
+    "10-finger-typing",
+    "educational-game",
+    "canvas-game",
+    "pwa"
+  ],
+  "author": "YRZQ_WLDN",
+  "license": "MIT"
+}
