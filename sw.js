@@ -1,5 +1,5 @@
 // AstroType Service Worker - Offline PWA Cache
-const CACHE_NAME = 'astrotype-v2-cache';
+const CACHE_NAME = 'astrotype-v2.6-mobile-cache';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

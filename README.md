@@ -1,6 +1,6 @@
 # AstroType: Pertahanan Galaksi & Akademi Mengetik 10 Jari 🚀
 > **Created & Developed by YRZQ_WLDN**  
-> *Versi 2.5 • Space Touch-Typing Combat Simulator & Progressive Web App*
+> *Versi 2.6 • Space Touch-Typing Combat Simulator & Progressive Web App*
 
 ---
 
@@ -45,11 +45,12 @@ Buka armada kapal tempur masa depan seiring naiknya level kadetmu:
 ### 9. 📤 1-Click WhatsApp & Web Social Share
 - Bagikan pencapaian WPM, Akurasi, dan Rank kelulusanmu langsung ke WhatsApp atau media sosial dengan satu sentuhan.
 
-### 10. 📱 Mobile & PWA Ready
-- 100% responsif untuk semua ukuran layar (Desktop, Tablet, dan Smartphone Android / iOS).
-- Dilengkapi keyboard virtual on-screen interaktif dan integrasi keyboard bawaan HP (*Gboard / iOS Keyboard*) tanpa jeda (*zero latency*).
-- Getaran taktil *Haptic Feedback* pada perangkat mobile.
-- Siap di-*Add to Home Screen* sebagai Progressive Web App (PWA) lengkap dengan Service Worker & App Manifest.
+### 10. 📱 Mobile Experience & PWA Ready (v2.6 Overhaul)
+- **100% Responsif & Ergonomis Mobile**: Tampilan HUD, dialog modal, dan kanvas dirancang proporsional pada semua ukuran layar smartphone modern (Android & iOS).
+- **Virtual Keyboard Ergonomis**: Dilengkapi bilah spasi jempol khusus (`-- SPASI --`), tombol hapus (`⌫ Backspace`), batal target (`ESC`), dan tombol toggle baris angka (`123`) untuk menghemat area kanvas.
+- **Integrasi Keyboard Asli HP (*Native Keyboard*)**: Tombol cepat `📱 Keyboard HP` untuk mengetik langsung dengan Gboard, Samsung Keyboard, atau iOS Keyboard tanpa latensi dengan kanvas layar penuh otomatis.
+- **Haptic Vibration Feedback**: Getaran responsif saat mengetik di smartphone yang mendukung navigasi getar.
+- **PWA Siap Pasang**: Service worker cache offline dan Web App Manifest siap instalasi langsung (*Add to Home Screen*).
 
 ---
 
