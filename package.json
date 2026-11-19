@@ -1,11 +1,12 @@
 {
   "name": "astrotype",
-  "version": "2.6.0",
-  "description": "AstroType: Pertahanan Galaksi & Akademi Mengetik 10 Jari - Space Typewriter Game & Progressive Web App Created by YRZQ_WLDN",
+  "version": "3.0.0",
+  "description": "AstroType: Pertahanan Galaksi & Akademi Mengetik 10 Jari - Zero-Framedrop Space Typewriter Game & Progressive Web App Created by YRZQ_WLDN",
   "main": "index.html",
   "scripts": {
     "start": "npx -y serve .",
-    "dev": "npx -y serve ."
+    "dev": "npx -y serve .",
+    "build:css": "npx -y tailwindcss@3.4.17 -c tailwind.config.js -i css/input.css -o css/styles.css --minify"
   },
   "keywords": [
     "astrotype",
